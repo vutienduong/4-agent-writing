@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+output/
+output_durable_test/
+output_queue_test/
+output_resume_partial_test/
+
+*.egg-info/
